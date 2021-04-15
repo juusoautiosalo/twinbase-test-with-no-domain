@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-02-23_19-44-08_43680e35
-hosting-iri: https://me.juu.so/twinbase-test-with-no-domain/2021-02-23_19-44-08_43680e35
+hosting-iri: https://juusoautiosalo.github.io/twinbase-test-with-no-domain/2021-02-23_19-44-08_43680e35
 name: Bizarre Honeybee Of Simple Fortitude
 description: Sit magnam numquam quaerat amet porro consectetur.
 relations:
@@ -9,5 +9,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-02-23_19-44-08_df0fb3c2
   relationType: child
-baseurl: https://me.juu.so/twinbase-test-with-no-domain
+baseurl: https://juusoautiosalo.github.io/twinbase-test-with-no-domain
 edit: https://github.com/juusoautiosalo/twinbase-test-with-no-domain/edit/main/docs/2021-02-23_19-44-08_43680e35/index.yaml
